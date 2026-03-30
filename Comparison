@@ -1,0 +1,11 @@
+| Feature       | ServiceNow GRC          | RSA Archer           | MetricStream                 | SAP GRC       | IBM OpenPages    |
+| ------------- | ----------------------- | -------------------- | ---------------------------- | ------------- | ---------------- |
+| Core Strength | Workflow + Integration  | Deep Risk Management | Compliance-heavy enterprises | SAP ecosystem | AI + analytics   |
+| Ease of Use   | ⭐⭐⭐⭐                    | ⭐⭐                   | ⭐⭐⭐                          | ⭐⭐            | ⭐⭐⭐⭐             |
+| Customization | Medium                  | Very High            | High                         | Medium        | High             |
+| Integration   | Excellent (ITSM/SecOps) | Moderate             | Good                         | Best with SAP | Strong APIs      |
+| Risk Modeling | Medium                  | ⭐⭐⭐⭐⭐                | ⭐⭐⭐⭐                         | ⭐⭐⭐           | ⭐⭐⭐⭐             |
+| Compliance    | Strong                  | Strong               | ⭐⭐⭐⭐⭐                        | ⭐⭐⭐⭐⭐         | Strong           |
+| UI/UX         | Modern                  | Old-school           | Moderate                     | Complex       | Clean            |
+| Deployment    | Fast                    | Complex              | Moderate                     | Complex       | Moderate         |
+| Best For      | IT-driven orgs          | Banks, finance       | Large compliance orgs        | SAP customers | Data-driven orgs |
